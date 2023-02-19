@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="Ana-pic" src="https://cdn.discordapp.com/attachments/1051678986809397329/1076716857748377701/Pink_and_Peach_Technology_LinkedIn_Banner.png">
+  <img align="right" alt="Anaj-pic" src="https://cdn.discordapp.com/attachments/1051678986809397329/1076716857748377701/Pink_and_Peach_Technology_LinkedIn_Banner.png">
 </div>
 
 #####
