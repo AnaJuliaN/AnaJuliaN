@@ -32,7 +32,7 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Ana-pic" height="200px" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1051678986809397329/1076721912425754714/picasion.com_687b5739d7dcad592dc0e6e7e8ca008c.gif">
+  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1051678986809397329/1076721912425754714/picasion.com_687b5739d7dcad592dc0e6e7e8ca008c.gif">
 </div>
 
   ####
