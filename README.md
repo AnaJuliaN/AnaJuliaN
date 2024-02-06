@@ -1,12 +1,8 @@
-<div>
-  <img align="right" alt="Anaj-pic" src="https://cdn.discordapp.com/attachments/1051678986809397329/1076716857748377701/Pink_and_Peach_Technology_LinkedIn_Banner.png">
-</div>
-
-#####
+## Olá, bem-vindo(a) ao meu GitHub!🫰
 
 - 👩‍💻 Desenvolvedora front-end
-- 🌱 Estudando Mobile
-- 😄 Pronomes: ela/dela
+- 📚 Bacharelado em Tecnologia da Informação
+- 🖥️ Cursando Desenvolvimento Web
 
 ####
 
@@ -32,7 +28,7 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1051678986809397329/1076721912425754714/picasion.com_687b5739d7dcad592dc0e6e7e8ca008c.gif">
+  <iframe src="https://giphy.com/embed/olr5oi9bxPVeV30Yye" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/sanrioinc-sanrio-kuromi-sanriofotm-olr5oi9bxPVeV30Yye"></a></p>
 </div>
 
   ####
