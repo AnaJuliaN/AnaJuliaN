@@ -28,7 +28,7 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <iframe src="https://giphy.com/embed/olr5oi9bxPVeV30Yye" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/sanrioinc-sanrio-kuromi-sanriofotm-olr5oi9bxPVeV30Yye"></a></p>
+  <img src="https://giphy.com/embed/olr5oi9bxPVeV30Yye" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/stickers/sanrioinc-sanrio-kuromi-sanriofotm-olr5oi9bxPVeV30Yye"></a></p>
 </div>
 
   ####
