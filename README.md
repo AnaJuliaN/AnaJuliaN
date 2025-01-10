@@ -2,7 +2,6 @@
 
 - 👩‍💻 Desenvolvedora front-end
 - 📚 Bacharelado em Tecnologia da Informação
-- 🖥️ Cursando Desenvolvimento Web
 
 ####
 
@@ -15,12 +14,12 @@
 ####
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ana-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Ana-Kuromi" height="160" width="180" src="https://media.discordapp.net/attachments/1135748621376168011/1204261947134967808/giphy.gif?ex=65d41756&is=65c1a256&hm=852562692a3c0c18772a80c9d2ec38deb12bef6ca2a006750a90c6692677bf9b&=)">
+  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ana-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Ana-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   
 </div>
 
